@@ -48,5 +48,5 @@ If `START.bat` closes immediately, right click `START.bat` & click "Edit". if th
 
 
 # Credits:
-All Credits Go To https://github.com/TT-Tutorials As They Have Made This Tool!
-join my discord server: https://discord.gg/raided
+- All Credits Go To https://github.com/TT-Tutorials As They Have Made This Tool!
+- join my discord server: https://discord.gg/raided
